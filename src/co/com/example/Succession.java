@@ -1,8 +1,8 @@
 package co.com.example;
 
 class Succession {
-    public final Integer limit;
-    public final Integer number;
+    private final Integer limit;
+    private final Integer number;
 
     public Succession(Integer limit, Integer number) {
         this.limit = limit;
